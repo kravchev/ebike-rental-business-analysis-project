@@ -19,6 +19,20 @@ I independently conducted business analysis activities based on BABOK principles
 ## 📄 Project Documentation
 👉 [View full project (PDF)](e_bike_project.pdf)
 
+## 📊 Key Diagrams
+
+### 🔄 Rental Process (BPMN)
+![BPMN](diagrams/bpmn-rental-process.png)
+
+### 🗂 Data Model (ERD)
+![ERD](diagrams/erd.png)
+
+### 👤 Use Case Diagram
+![Use Case](diagrams/use-case-diagram.png)
+
+### 🏢 Rental Station Layout (Low-Fidelity)
+![Layout](diagrams/rental-station-floorplan.png)
+
 ## 🔧 Skills Demonstrated
 - Requirements analysis
 - Stakeholder management
