@@ -1,6 +1,6 @@
 # Business Analysis Project – eBike Rental Startup
 
-This project demonstrates end-to-end Business Analysis work for a fictional eBike rental startup (Mobi-e-rides), focusing on requirements gathering, process modeling, and solution design.
+This project showcases end-to-end Business Analysis work for a fictional eBike rental startup (Mobi-e-rides), including requirements gathering, process modeling, and solution design aligned with BABOK practices.
 
 ## 📌 Scope
 - Stakeholder analysis
